@@ -1,3 +1,3 @@
 # machine-learning-zoomcamp-homework
 
-Hello world
+Completed Homework 1 using Anaconda environment
